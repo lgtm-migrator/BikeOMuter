@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+My name is Tobias Bichlmaier and I am a Software Engineer based in Munich, Germany.
 
-A place to include any other types of information that you'd like to include about yourself.
+* Check out my blog [tobiasbichlmaier.de](https:tobiasbichlmaier.de)
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+* or contact me [dev.tobias.bichlmaier@googlemail.com](mailto:dev.tobias.bichlmaier@googlemail.com)
