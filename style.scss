@@ -64,6 +64,15 @@ h4 {
   color: $gray;
 }
 
+
+table {
+  border-collapse: collapse;
+}
+
+table {
+  border: 1px solid black;
+}
+
 p {
   margin: 15px 0;
 }
@@ -120,6 +129,13 @@ img {
   color: $gray;
 }
 
+blockquote {
+  border-left: .25em solid $divider-color;
+  color: $primary-color-dark;
+  padding: 1em 1em 1em 1em;
+}
+
+
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
@@ -141,6 +157,7 @@ img {
 .clearfix:after {
     clear: both;
 }
+
 
 /*********************/
 /* LAYOUT / SECTIONS */
@@ -228,12 +245,12 @@ nav {
     margin-left: 20px;
     color: $darkGray;
     text-align: right;
-    font-weight: 300;
+    font-weight: 400;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $darkGray;
     }
   }
 }
@@ -290,31 +307,11 @@ footer {
 @import "svg-icons";
 
 
-/// Google Play Badge
-
-// $break-small: 320px;
-// $break-large: 1024px;
-
-// @mixin respond-to($media) {
-//   @if $media == handhelds {
-//     @media only screen and (max-width: $break-small) { @content; }
-//   }
-//   @else if $media == medium-screens {
-//     @media only screen and (min-width: $break-small + 1) and (max-width: $break-large - 1) { @content; }
-//   }
-//   @else if $media == wide-screens {
-//     @media only screen and (min-width: $break-large) { @content; }
-//   }
-// }
-
 #play-badge {
   width: 250px;
   @include mobile {
     width: 125px
   }
-  // @include respond-to(handhelds) { width: 125px ;}
-  // @include respond-to(medium-screens) { width: 175px; }
-  // @include respond-to(wide-screens) { width: 250px; }
 }
 
 /// Simple Gallery

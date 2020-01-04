@@ -15,6 +15,16 @@ If you choose to use my Service, then you agree to the collection and use of inf
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at BikeOMuter unless otherwise defined in this Privacy Policy.
 
 **Information Collection and Use**
+The information gathered when you interact with the BikeOMuter app is non-personal information collected through technology, which includes location information collected by us as well as third parties.
+
+**Location Information**
+The BikeOMuter app can deliver weather data for your current location if you choose to enable this feature in the app. When you start the app for the first time you will be prompted to grant the app access to the location service of your device. If you agree and enable access to your location, your current location will be stored locally on your device, and will then be used by the app to query weather data for that location from the weather providers. You can disable access for the app to your device location in your device settings at any time. If you do not enable the location, we will not collect or store location information.
+
+The application will send your given location(s) to one of the following provider. Please follow the link to read their privacy policy.
+
+*   [Dark Sky Services](https://darksky.net/privacy)
+
+**Information Collection and Use**
 
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
 
@@ -23,7 +33,7 @@ The app does use third party services that may collect information used to ident
 Link to privacy policy of third party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Dark Sky Services](https://darksky.net/privacy)
+
 
 **Log Data**
 
@@ -54,14 +64,10 @@ I value your trust in providing us your Personal Information, thus we are strivi
 
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-**Children’s Privacy**
-
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13\. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
-
 **Changes to This Privacy Policy**
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at [dev.tobias.bichlmaier@googlemail.com.](mailto:dev.tobias.bichlmaier@googlemail.com).
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at [{{ site.contact }}](mailto:{{ site.contact }}).
