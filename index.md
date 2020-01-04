@@ -4,15 +4,15 @@ title:
 permalink: /
 ---
 
-**BikeOMuter** is a mobile (currently Android only) App, which provides weather information for roundtrip commutes by bike. It facilitates the decision-making by using a traffic light color encoding for evaluating a roundtrip commute. 
+**BikeOMuter** is an app that provides weather information for the daily commute to work by bike. It helps you to decide whether you can safely swing onto the saddle of your bike without getting wet. It uses a traffic light color coding to evaluate your trip.
 
-Therefore helping you to decide wether to go by *bike* or if it is better to rather *take public transport*.
 
 ### Motivation
 
-For longer daily bike commutes (let's say beyond 5 kilometers) you need to check the weather for multiple locations and multiple time points for a round trip to make sure that you will not encounter bad weather. This can get even more tidious for longer commutes involving mutiple cities.
+For longer commutes, you will need to manually check the weather for several places and several times for the return trip to make sure you don't encounter bad weather. This can be tedious if you have to travel long distances every day.
 
-> **BikeOMuter** is here to facilitate this process and help you with the decision making.
+
+> **BikeOMuter** That's why I've created BikeOMuter! It helps you to decide whether you can safely swing onto the saddle of your bike without getting wet.
 
 The alternative is to always wear appropiate clothing :umbrella: or to simply not care if you get soakingly wet during a storm :laughing:.
 
