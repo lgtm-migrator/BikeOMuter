@@ -40,7 +40,7 @@ Here are some in-app screenshots:
 
 <div style="padding-top: 50px;">
 <center>
-Stay Tuned! :metal:
+<em> Stay Tuned! :metal: </em>
 </center>
 </div>
 
