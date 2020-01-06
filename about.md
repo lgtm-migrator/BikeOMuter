@@ -10,6 +10,6 @@ My name is Tobias Bichlmaier and I am a Software Engineer based in Munich, Germa
 BikeOMuter is my first mobile application developed in [Flutter](https://www.flutter.dev) with :heart:.
 
 
-* Check out my blog [tobiasbichlmaier.de](https:tobiasbichlmaier.de)
+* Check out my blog [tobiasbichlmaier.de](https://www.tobiasbichlmaier.de)
 
 * or contact me [{{ site.contact }}](mailto:{{ site.contact }})
