@@ -4,15 +4,15 @@ title:
 permalink: /
 ---
 
-**BikeOMuter** is an app that provides weather information for the daily commute to work by bike. It helps you to decide whether you can safely swing onto the saddle of your bike without getting wet. It uses a traffic light color coding to evaluate your trip.
+**BikeOMuter** is an app that provides weather information for the daily commute to work by bike. It helps you to decide whether you can safely swing onto the saddle of your bike or if you need to rely on public transport. It uses a traffic light color coding to evaluate your trip.
 
 
 ### Motivation
 
-For longer commutes, you will need to manually check the weather for several places and several times for the return trip to make sure you don't encounter bad weather. This can be tedious if you have to travel long distances every day.
+For longer commutes, you will need to manually check the weather for different locations and several times of day to make sure you don't encounter bad weather along your trip. This can be tedious if you have to travel long distances every day.
 
 
-> **BikeOMuter** That's why I've created BikeOMuter! It helps you to decide whether you can safely swing onto the saddle of your bike without getting wet.
+> **BikeOMuter** That's why I've created BikeOMuter! It helps you to decide whether you can safely swing onto the saddle of your bike.
 
 The alternative is to always wear appropiate clothing :umbrella: or to simply not care if you get soakingly wet during a storm :laughing:.
 
